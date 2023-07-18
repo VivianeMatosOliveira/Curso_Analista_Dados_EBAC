@@ -3,7 +3,8 @@ Esse repositório apresenta os notbooks das aulas, resolução dos exercicios e 
 
 No curso será desenvolvido os seguintes projetos:
 
-1. Análise Exploratória de Dados
-2. Dashboard de dados
-3. Pipeline de dados do Telegram
+1. Análise Exploratória de Dados com Python
+2. Análise Exploratória de Dados com SQL
+3. Dashboard de dados com Google Data Studio
+4. Pipeline de dados do Telegram
 
